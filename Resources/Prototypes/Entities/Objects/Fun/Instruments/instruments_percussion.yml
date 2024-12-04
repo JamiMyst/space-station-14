@@ -26,6 +26,9 @@
   - type: Sprite
     sprite: Objects/Fun/Instruments/musicbox.rsi
     state: icon
+  - type: Tag
+    tags:
+    - PercussionInstrument
 
 - type: entity
   parent: BaseHandheldInstrument
@@ -98,7 +101,7 @@
     state: icon
   - type: Tag
     tags:
-    - KeyedInstrument
+    - PercussionInstrument
   - type: Item
     size: Small
 
@@ -128,6 +131,9 @@
   - type: Sprite
     sprite: Objects/Fun/Instruments/reversecymbal.rsi
     state: icon
+  - type: Tag
+    tags:
+    - PercussionInstrument
 
 - type: entity
   parent: BaseHandheldInstrument
