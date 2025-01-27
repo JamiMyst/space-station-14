@@ -89,6 +89,7 @@ loadout-group-musician-outerclothing = Musician outer clothing
 # Cargo
 loadout-group-quartermaster-head = Quartermaster head
 loadout-group-quartermaster-jumpsuit = Quartermaster jumpsuit
+loadout-group-quartermaster-backpack = Quartermaster backpack
 loadout-group-quartermaster-neck = Quartermaster neck
 loadout-group-quartermaster-outerclothing = Quartermaster outer clothing
 loadout-group-quartermaster-shoes = Quartermaster shoes
@@ -106,6 +107,7 @@ loadout-group-salvage-specialist-shoes = Salvage Specialist shoes
 # Engineering
 loadout-group-chief-engineer-head = Chief Engineer head
 loadout-group-chief-engineer-jumpsuit = Chief Engineer jumpsuit
+loadout-group-chief-engineer-backpack = Chief Engineer backpack
 loadout-group-chief-engineer-outerclothing = Chief Engineer outer clothing
 loadout-group-chief-engineer-neck = Chief Engineer neck
 loadout-group-chief-engineer-shoes = Chief Engineer shoes
@@ -174,6 +176,7 @@ loadout-group-medical-mask = Medical mask
 
 loadout-group-chief-medical-officer-head = Chief Medical Officer head
 loadout-group-chief-medical-officer-jumpsuit = Chief Medical Officer jumpsuit
+loadout-group-chief-medical-officer-backpack = Chief Medical Officer backpack 
 loadout-group-chief-medical-officer-outerclothing = Chief Medical Officer outer clothing
 loadout-group-chief-medical-officer-shoes = Chief Medical Officer shoes
 loadout-group-chief-medical-officer-neck = Chief Medical Officer neck
